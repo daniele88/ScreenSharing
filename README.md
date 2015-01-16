@@ -1,6 +1,6 @@
 ScreenSharing
 =============
 
-A simple program based on client-server architecture written in C# to share your desktop.
-You can share only a specific window, your entire desktop or only a specific size.
-You can also exchange your clipboard data (file, image or text) with other users, and chat with them.
+A C# program based on client-server architecture to connect multiple users.
+The server can share its screen (it is possible to share only a specific window, the entire desktop or only a specific part of screen), and all the users can communicate each other sending chat messages.
+It is also possible to exchange the clipboard data (file, image or text) with other users.
